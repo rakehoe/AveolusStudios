@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* for the content of aveolus studios pages */
+.As-content{
+    display: inline-flex;
+}
+
+.card{
+    margin-inline-start: 5px;
+    margin-inline-end: 5px;
+    /* margin: 0px 10px 0px 10px */
+}
